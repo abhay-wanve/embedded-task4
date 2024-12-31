@@ -1,5 +1,5 @@
 # embedded-task4
-int hey_noobix = 22;
+//int hey_noobix = 22;
 int power_on = 23;
 int turn_off = 24;
 int set_timer = 25;
@@ -384,5 +384,5 @@ void turn_off_all(){
   digitalWrite(three_minutes, LOW);
   digitalWrite(four_minutes, LOW);
   digitalWrite(five_minutes, LOW);
-}
+//}
 ![task4](https://github.com/user-attachments/assets/1e1a030a-9952-4943-ad7f-e50e3fda14f4)
