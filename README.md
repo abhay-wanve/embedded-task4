@@ -1,5 +1,5 @@
 # embedded-task4
-//int hey_noobix = 22;
+int hey_noobix = 22;
 int power_on = 23;
 int turn_off = 24;
 int set_timer = 25;
